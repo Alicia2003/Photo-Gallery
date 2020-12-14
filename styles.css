@@ -1,0 +1,19 @@
+h1{color:pink; 
+    text-align: center; 
+    border-style: dotted;
+}
+
+body{background-color:black;
+    text-align:center;
+}
+
+img{width:250px; 
+    height:300px; 
+    display: inline-block; 
+    margin: 10px;
+    border: 3px dotted  pink;}
+
+p{color:pink;
+}
+
+
